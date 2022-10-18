@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](C:\Users\YJ\Desktop\github_main.png)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JII-KWON&show_icons=true&theme=radical)
 
