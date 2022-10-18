@@ -16,4 +16,4 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Matlab-#8f231d?style=flat-square&logo=Matlab&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Matlab-#8f231d?style=flat-square&logoColor=white"/></a>&nbsp 
