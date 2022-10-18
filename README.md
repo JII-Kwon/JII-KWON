@@ -1,5 +1,5 @@
-![header](C:\Users\YJ\Desktop\github_main.png)
-<img src="C:\Users\YJ\Desktop\github_main.png">
+
+![github_main](https://user-images.githubusercontent.com/55378421/196393286-803a078b-c133-4b0c-90a1-325f22393592.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JII-KWON&show_icons=true&theme=radical)
 
