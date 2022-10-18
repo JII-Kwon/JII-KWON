@@ -19,7 +19,7 @@
 🌱 My main research topic is ...
  > ***Understanding the funtion of human brain about auditory processing***  
  > ***Development of Music BCI system (Supproted by [Samsung Research Funding & Incubation Center of Samsung Electronics])***  
- > ***Development of Communication BCI system (Supported by [Ministry of Trade Inustry and Energey]***  
+ > ***Development of Communication BCI system (Supported by [Ministry of Trade Inustry and Energey])***  
 
 
 
