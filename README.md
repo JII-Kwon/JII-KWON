@@ -9,10 +9,11 @@
 > Development of Communication BCI(Brain-Computer Interfaces) system (Supported by [Ministry of Trade Inustry and Energey]
 
 📫 How to reach me ...
- - jii.kwon125@gmail.com
- - jiicr125@snu.ac.kr
- - jiicr125@meg.re.kr
+  - jii.kwon125@gmail.com
+  - jiicr125@snu.ac.kr
+  - jiicr125@meg.re.kr
 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Matlab-#8f231d?style=flat-square&logo=Matlab&logoColor=white"/></a>&nbsp 
