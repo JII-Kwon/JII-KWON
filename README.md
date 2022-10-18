@@ -16,5 +16,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/-Matlab-red?style=flat-square"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Origin-F56C2D?style=flat-square&logo=Origin&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/-Matlab-8f231d?style=flat-square"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Origin-F56C2D?style=flat-square&logo=Origin&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Mendeley-9D1620?style=flat-square&logo=Mendeley&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Endnote-ECD53F?style=flat-square&logo=.ENV&logoColor=white"/></a>&nbsp 
